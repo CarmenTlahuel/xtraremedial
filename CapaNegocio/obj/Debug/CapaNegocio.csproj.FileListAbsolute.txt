@@ -1,0 +1,2 @@
+C:\Users\Lenovo_AIO_11\Desktop\RemEx_2\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Lenovo_AIO_11\Desktop\RemEx_2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
